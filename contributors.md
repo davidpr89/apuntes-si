@@ -1,4 +1,5 @@
 Contributors
 ============
 
-- bananas24   - Teacher
+- bananas24     - Teacher
+- danielitorc4  - Daniel R.
