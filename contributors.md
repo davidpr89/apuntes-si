@@ -9,5 +9,4 @@ Contributors
 - nonaescu           - Ainhoa
 - angeluchii20       - Angel
 - LuiggiPG2002       - Luiggi Pincay 
-
-
+- Jorgegrhlm         - Jorge
