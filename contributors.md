@@ -6,3 +6,5 @@ Contributors
 - HojaSilvana        - David Cuenca
 - lovelattemacchiato - Tamara
 - AfaghEB            - Afagh
+- nonaescu           - Ainhoa
+- angeluchii20       - Angel
