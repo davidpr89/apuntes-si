@@ -8,3 +8,5 @@ Contributors
 - AfaghEB            - Afagh
 - nonaescu           - Ainhoa
 - angeluchii20       - Angel
+- LuiggiPG2002       - Luiggi Pincay 
+
